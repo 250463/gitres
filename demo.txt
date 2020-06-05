@@ -1,2 +1,1 @@
-Hello GiT1
-Hello GiT1
+hello git2!
